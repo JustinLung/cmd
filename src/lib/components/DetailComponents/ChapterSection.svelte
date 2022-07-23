@@ -15,6 +15,8 @@
 <style>
 	section {
 		padding: 1rem;
+		max-width: 75rem;
+		margin: 0 auto;
 	}
 
 	section h2 {
@@ -52,7 +54,7 @@
 		div {
 			display: grid;
 			grid-template-columns: repeat(2, 1fr);
-			grid-gap: 0;
+			grid-gap: 1rem;
 		}
 	}
 </style>

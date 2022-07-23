@@ -57,4 +57,11 @@
 			font-size: 2.5rem;
 		}
 	}
+
+	@media(min-width: 75rem) {
+		section {
+			height: 25rem;
+			padding: 3rem 6rem;
+		}
+	}
 </style>

@@ -37,4 +37,11 @@
 			text-align: left;
 		}
 	}
+
+	@media (min-width: 75rem) {
+		section {
+			height: 30rem;
+			padding: 0 6rem;
+		}
+	}
 </style>

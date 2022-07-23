@@ -24,4 +24,10 @@
 		align-items: center;
 		padding: 1rem;
 	}
+
+	@media(min-width: 75rem) {
+		header {
+			padding: 1rem 6rem;
+		}
+	}
 </style>

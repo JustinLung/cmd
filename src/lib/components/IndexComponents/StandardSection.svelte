@@ -16,4 +16,10 @@
 			padding: 3rem 5rem;
 		}
 	}
+
+	@media(min-width: 75rem) {
+		div {
+			padding: 5rem 6rem;
+		}
+	}
 </style>
