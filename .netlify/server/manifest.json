@@ -1,0 +1,89 @@
+{
+  ".svelte-kit/build/index.js": {
+    "file": "index.js",
+    "src": ".svelte-kit/build/index.js",
+    "isEntry": true,
+    "imports": [
+      "_index-62012ddc.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/build/hooks.js"
+    ]
+  },
+  "src/routes/index.js": {
+    "file": "entries/endpoints/index.js",
+    "src": "src/routes/index.js",
+    "isEntry": true,
+    "imports": [
+      "_prismicClient-defcf1de.js"
+    ]
+  },
+  "src/routes/[uid].js": {
+    "file": "entries/endpoints/_uid_.js",
+    "src": "src/routes/[uid].js",
+    "isEntry": true,
+    "imports": [
+      "_prismicClient-defcf1de.js"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "entries/pages/__layout.svelte.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-62012ddc.js"
+    ],
+    "css": [
+      "immutable/assets/entries/pages/__layout.svelte-3f904418.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-62012ddc.js"
+    ]
+  },
+  "src/routes/[uid].svelte": {
+    "file": "entries/pages/_uid_.svelte.js",
+    "src": "src/routes/[uid].svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-62012ddc.js",
+      "_PageTransition-b2d7673e.js"
+    ],
+    "css": [
+      "immutable/assets/entries/pages/_uid_.svelte-3df4f275.css"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "entries/pages/index.svelte.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-62012ddc.js",
+      "_PageTransition-b2d7673e.js"
+    ],
+    "css": [
+      "immutable/assets/entries/pages/index.svelte-be80de96.css"
+    ]
+  },
+  "_index-62012ddc.js": {
+    "file": "immutable/chunks/index-62012ddc.js"
+  },
+  "_prismicClient-defcf1de.js": {
+    "file": "immutable/chunks/prismicClient-defcf1de.js"
+  },
+  "_PageTransition-b2d7673e.js": {
+    "file": "immutable/chunks/PageTransition-b2d7673e.js",
+    "imports": [
+      "_index-62012ddc.js"
+    ]
+  },
+  ".svelte-kit/build/hooks.js": {
+    "file": "immutable/chunks/hooks-d259abab.js",
+    "src": ".svelte-kit/build/hooks.js",
+    "isDynamicEntry": true
+  }
+}
